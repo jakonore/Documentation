@@ -1,5 +1,7 @@
-# Welcome to Docsify Page!
+# Welcome to my personnal documentation Page!
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created for [**Opensource.com**](https://opensource.com) demo.
+This site was created using [**Docsify**](https://docsify.js.org) and imported in GitHub page.
 
-![Welcome to Opensource.com](./images/cover.jpg)
+Here is the list of subjects that we cover:
+
+[Divi](./divi.md)
