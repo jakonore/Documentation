@@ -1,6 +1,6 @@
-#Tutorial for Divi
+# Tutorial for Divi
 
-##Vertical center of content within a row
+## Vertical center of content within a row
 
 In order to align the content vertically you must :
 1 - Configure the row setting so it will adjust the height of the columns to be the same: design > sizing > Equalize Column Heights
