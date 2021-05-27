@@ -4,7 +4,7 @@
 * [HOME](./)
 
 * [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
+  * [Divi](./tutorials/Divi/index)
   * [Cloud](./tutorials/cloud/index)
   * [Java](./tutorials/java/index)
 
